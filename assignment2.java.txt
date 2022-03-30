@@ -1,0 +1,164 @@
+packag inheritence
+
+public calss super department {
+
+public static void main (string{ } args); {
+
+void m1 (system.in);
+
+system.out.println (please enter the department following option /n1. super department  /2. admin/3.Hr /3. Tech ;
+
+if (i=1); {
+
+department="Super"
+
+ else(i=2)department="Admin"
+
+ else (i=3)department="Hr"
+
+ else (i=4) department="Tech"
+
+system.out.println ("enter the valid number");
+
+return type;
+
+if i=1,
+
+then;
+
+system.out.println ("Welcome to departmentName");
+
+system.out.println ("getTodayWork");
+
+if (i=1) ="no work as of now"
+
+ else(i=2)="too work"
+
+system.out.println ("enter the valid number");
+
+system.out.println ("getWorkDeadline");
+
+if (i=1)="Nil"
+
+else(i=2) ="Full"
+
+system.out.println ("enter the valid number");
+
+system.out.println ("isTodayAHoliday");
+
+if (i=1) ="today is not a holiday"
+
+else(i=2) ="today is a holiday"
+
+system.out.println ("enter the valid number");
+
+return type;
+
+public class super department extend admin department;
+
+if i=2,
+
+then;
+
+system.out.println ("Welcome to departmentName");
+
+system.out.println ("getTodayWork");
+
+if (i=1) ="complete your documents submission"
+
+ else(i=2)="document uncomplete"
+
+system.out.println ("enter the valid number");
+
+system.out.println ("getWorkDeadline");
+
+if (i=1)="complete by EOD"
+
+else(i=2) ="no completion"
+
+system.out.println ("enter the valid number");
+
+return type;
+
+public class super department extend hr department;
+
+if i=3,
+
+then;
+
+system.out.println ("Welome to departmentName");
+
+system.out.println ("getTodayWork");
+
+if (i=1) ="fill today worksheet and mark your attendance"
+
+ else(i=2)="lesser work"
+
+system.out.println ("enter the valid number");
+
+system.out.println ("getWorkDeadline");
+
+if (i=1)="complete by EOD"
+
+else(i=2) ="no completion"
+
+system.out.println ("enter the valid number");
+
+system.out.println ("doActivity");
+
+if (i=1) ="team lunch"
+
+else(i=2) ="group dance"
+
+system.out.println ("enter the valid number");
+
+return type;
+
+public class super department extend tech department;
+
+if i=4,
+
+then;
+
+system.out.println ("Welcome to departmentName");
+
+system.out.println ("getTodayWork");
+
+if (i=1) ="complete coding of module 1"
+
+ else(i=2)="uncomplete coding of module 1"
+
+system.out.println ("enter the valid number");
+
+system.out.println ("getWorkDeadline");
+
+if (i=1)="complete by EOD"
+
+else(i=2) ="no completion"
+
+system.out.println ("enter the valid number");
+
+system.out.println ("getTechStackInformation");
+
+if (i=1) ="Core Java"
+
+else(i=2) ="group dance"
+
+system.out.println ("enter the valid number");
+
+// creating an object super class;
+
+}
+
+
+
+
+
+}
+
+
+
+
+
+
+
